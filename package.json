@@ -1,0 +1,22 @@
+{
+  "name": "codingclubbot",
+  "version": "1.0.0",
+  "description": "Bot created for competition on Coding Club on discord server Angloninja",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiPiNi/CodingClubBot.git"
+  },
+  "author": "MiPiNi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiPiNi/CodingClubBot/issues"
+  },
+  "homepage": "https://github.com/MiPiNi/CodingClubBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
